@@ -1,7 +1,7 @@
 <?php
 $translations = array(
 	'General_Locale' => 'it_IT.UTF-8',
-	'General_TranslatorName' => 'Alessandro Coscia, Giovdi, Yusef Maali, Andrea Marchitelli (CILEA), <a href="http://www.worldoftechnology.it/">Fabrizio Rocca</a>, Ted Mosby',
+	'General_TranslatorName' => 'Alessandro Coscia, Giovdi, Yusef Maali, Andrea Marchitelli (CILEA), <a href="http://www.fabriziorocca.it/">Fabrizio Rocca</a>, Ted Mosby',
 	'General_TranslatorEmail' => 'php_staff@yahoo.it, francesco@pixelstyle.it, contact@yusefmaali.net, aepic@cilea.it, fabriziorocca.bolzano@gmail.com, tmosbyd@gmail.com',
 	'General_EnglishLanguageName' => 'Italian',
 	'General_OriginalLanguageName' => 'Italiano',
